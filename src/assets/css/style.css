@@ -6,7 +6,7 @@
 }
 
 ul {
-  list-style: none; /* Supprime les puces */
+  /*list-style: none; /* Supprime les puces */
   padding: 0;
   margin: 0;
 }
@@ -141,9 +141,10 @@ h2, h3, h4, h5 {
   gap: 30px;          /* ecarte les 2  */
 }
 
-#contact li {
-  list-style: none;        /* pas de puces */
+/*#contact li {
+  list-style: none;
 }
+*/
 
 #contact a {
   display: flex;
